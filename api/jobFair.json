@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": 1,
+      "companyName": "英才科技",
+      "city": "山西",
+      "field": "计算机",
+      "director": "李四",
+      "schooldirector": "张三",
+      "time": "2020-6-12",
+      "place": "教2303"
+
+    },{
+      "id": 2,
+      "companyName": "英才科技",
+      "city": "山西",
+      "field": "计算机",
+      "director": "李四",
+      "schooldirector": "张三",
+      "time": "2020-6-12",
+      "place": "教2303"
+
+    },{
+      "id": 3,
+      "companyName": "英才科技",
+      "city": "山西",
+      "field": "计算机",
+      "director": "李四",
+      "schooldirector": "张三",
+      "time": "2020-6-12",
+      "place": "教2303"
+
+    },{
+      "id": 4,
+      "companyName": "英才科技",
+      "city": "山西",
+      "field": "计算机",
+      "director": "李四",
+      "schooldirector": "张三",
+      "time": "2020-6-12",
+      "place": "教2303"
+
+    },{
+      "id": 5,
+      "companyName": "英才科技",
+      "city": "山西",
+      "field": "计算机",
+      "director": "李四",
+      "schooldirector": "张三",
+      "time": "2020-6-12",
+      "place": "教2303"
+
+    },{
+      "id": 6,
+      "companyName": "英才科技",
+      "city": "山西",
+      "field": "计算机",
+      "director": "李四",
+      "schooldirector": "张三",
+      "time": "2020-6-12",
+      "place": "教2303"
+
+    },{
+      "id": 7,
+      "companyName": "英才科技",
+      "city": "山西",
+      "field": "计算机",
+      "director": "李四",
+      "schooldirector": "张三",
+      "time": "2020-6-12",
+      "place": "教2303"
+
+    },{
+      "id": 8,
+      "companyName": "英才科技",
+      "city": "山西",
+      "field": "计算机",
+      "director": "李四",
+      "schooldirector": "张三",
+      "time": "2020-6-12",
+      "place": "教2303"
+
+    },{
+      "id": 9,
+      "companyName": "英才科技",
+      "city": "山西",
+      "field": "计算机",
+      "director": "李四",
+      "schooldirector": "张三",
+      "time": "2020-6-12",
+      "place": "教2303"
+
+    },{
+      "id": 10,
+      "companyName": "英才科技",
+      "city": "山西",
+      "field": "计算机",
+      "director": "李四",
+      "schooldirector": "张三",
+      "time": "2020-6-12",
+      "place": "教2303"
+
+    }
+
+  ]
+}
